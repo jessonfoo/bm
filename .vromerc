@@ -1,0 +1,10 @@
+set useletters=1
+set hintkeys=jlkhfsdagweroi
+map K gt
+map J gT
+map <C-l> gt
+map <C-h> gT
+map R <c-r>
+map <m-r> R
+map j 9j
+map k 9k
